@@ -11,6 +11,6 @@ sudo mv /usr/lib/x86_64-linux-gnu/opera/libffmpeg.so /usr/lib/x86_64-linux-gnu/o
 # copy over from chrome
 sudo cp /usr/lib/chromium-browser/libffmpeg.so /usr/lib/x86_64-linux-gnu/opera/.
 
-# change to executable write
+# change to executable
 sudo chmod +x /usr/lib/x86_64-linux-gnu/opera/libffmpeg.so
 ```
